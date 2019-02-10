@@ -1,0 +1,211 @@
+body {
+
+    background-image: url(http://www.sdjgjx.com/up/pc/background%20hd.jpg);
+    background-size 100%;
+    
+    
+    
+    }
+    #a{
+    width:100%;
+    background-attachment: ul() ;
+    
+    
+    }
+    .btn1{
+    
+    background-color: Transparent;
+    border: 0px;
+    border-radius: 10px;
+    padding-top: 5px;
+    margin-left: 7%;
+    margin-top: 5%;
+    bott
+    
+    
+    
+    }
+    .btn1:hover{
+        background-color: white;
+        transition: 0.3s;
+    
+        
+    
+    }
+    hr{
+    
+        width: 100%;
+        padding-left: 0%;
+        padding-right:0% 
+        
+    }
+    
+    #pe1{
+        width: max;
+        
+        background-color; 
+        direction: rtl ;
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+    }
+    
+    #te1{
+    
+    background-image: url(https://-tbn0.gstatic.com/images?q=tbn:ANd9GcT7FdJZoEEOJmEzqog1tumHEwJj1FYK8mFvahv-zRBpqXNO8xvR);
+    
+    
+    }
+    .btn2{
+    
+        
+    background-color: Transparent;
+    border: solid white 1px ;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    border-radius: 10px;
+    padding-top: 5px;
+    margin-left: 7%;
+    margin-top: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100%;
+    font-style: italic;
+    font-weight: bolder;
+    color: wheat
+    }
+    .btn2:hover{
+    
+        background-color:rgb(0, 128, 255);
+    
+    }
+    .btn1:checked{
+    
+    background-color: aqua;
+    
+    }
+    .tt1{
+    
+    
+    background-color: transparent;
+    align-content: center;
+    border: 0%;
+    border-radius: 10px;
+    border-color: blue;
+    padding: 0.5%; 
+    
+    }
+    .btn3{
+    
+    background-color: transparent;
+    border: solid 1px black;
+    border-radius: 10px;
+    height: 22px;
+    width: 50%;
+    text-align: center; 
+    
+    }
+    .btn3{
+
+background-color: antiquewhite;
+
+
+    }
+    .te2
+    {
+    
+    background-image: url(https://ak1.picdn.net/shutterstock/videos/7267831/thumb/1.jpg);
+    background-repeat: ;
+    background-size: 100%;
+    
+    border-radius: 20px;
+    
+    
+    }
+    .tt1:hover{
+        background-color:white;
+    
+    
+    
+    }
+    .th1{
+    
+    border: black solid 1px;
+    border-radius: 20px;
+    
+    
+    
+    }
+    .btn4{
+    
+    
+    background-color:transparent;
+    border: black solid 1px;
+    border-radius:20px; 
+    
+    
+    }
+    
+    
+    .btn4:hover{
+    
+    transition: 0.5s;
+    background-color: yellowgreen;
+    
+    
+    }
+    .ro1:after{
+    
+    border: 0px;
+    background-color: transparent;
+    
+    
+    
+    }
+    
+    .container{
+    
+    
+    ` 
+    
+    }
+    .div1{
+    margin-top: px;
+    padding-top: 0%;
+    
+    
+    
+    background-color:lightblue;
+    border-radius: 20px;
+    }
+    .div2{
+    padding-top: px;
+    padding-bottom: 50px;
+    
+    align-content: center;
+    
+    }
+    hr{
+    
+    
+       
+      ;
+      
+      border: 3px solid black;
+    
+    border-left-width: 1px;
+    margin-left: 0%;
+    }
+
+
+    video{
+
+        margin-left:  25%;
+        margin-right: auto;
+        width: 50%;
+         height: 50%;
+
+
+
+    }
+    
