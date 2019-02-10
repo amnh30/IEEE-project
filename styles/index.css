@@ -1,8 +1,16 @@
+*{
+margin: 0%;
+padding: 0%;
+
+
+}
+
+
+
 body {
 
 background-image: url(http://www.sdjgjx.com/up/pc/background%20hd.jpg);
 background-size 100%;
-
 
 
 }
@@ -126,7 +134,8 @@ border-radius: 20px;
 
 border: black solid 1px;
 border-radius: 20px;
-
+padding-left: 1%;
+padding-bottom: 0%
 
 
 }
