@@ -20,6 +20,7 @@ border-radius: 10px;
 padding-top: 5px;
 margin-left: 7%;
 margin-top: 5%;
+bott
 
 
 
@@ -163,17 +164,29 @@ background-color: transparent;
 
 }
 .div1{
+margin-top: px;
+padding-top: 0%;
 
 
 
-
-background-color:black;
-
+background-color:lightblue;
+border-radius: 20px;
 }
 .div2{
-
-
+padding-top: px;
+padding-bottom: 50px;
 
 align-content: center;
 
+}
+hr{
+
+
+   
+  ;
+  
+  border: 3px solid black;
+
+border-left-width: 1px;
+margin-left: 0%;
 }
