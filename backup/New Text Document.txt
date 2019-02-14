@@ -226,3 +226,26 @@
 
 </body>
 </html>
+
+
+
+
+
+@media screen and (max-width: 600px) {
+    .te1{
+      padding: 0%;
+
+
+
+    }
+
+
+
+
+  }
+  @media screen and (max-width: 600px) {body{
+
+    width:1000px
+
+
+  }

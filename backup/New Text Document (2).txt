@@ -1,0 +1,479 @@
+*{
+
+margin-left: 0%;
+margin-right: 0%
+padding: 0%;
+padding-left:0%;
+
+
+}
+body{
+
+
+
+  
+}
+
+#div1{
+
+    background-image: url("https://i.redd.it/jsnlg9kwvtxx.jpg");
+
+    /* Set a specific height */
+    min-height: auto; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.btn btn-primary{
+
+transition: 0.5;
+width: 100%;
+
+
+}
+a{
+  width: 100%;
+
+
+
+}
+.btn-group{
+    
+width:100%;
+background-color: #4285F4;
+font-family: cursive,monospace;   
+
+
+}
+
+#h11{
+color: rgb(252, 252, 252);
+font-family:cursive,monospace;
+padding-top: 7%
+
+
+
+
+}
+#div2{
+
+width: 100%;
+background-color: rgb(25,32,40);
+height: auto;
+
+margin-bottom: 0%;
+    padding-top: 60px;
+}
+#div3{
+    padding-top: %;
+    width: 90%;
+    background-color: whitesmoke;
+    height: auto;
+    margin-left: 5%;
+    margin-bottom:50px;
+border-radius: 15px;
+
+
+
+}
+#img1{
+    border-radius: 200px;
+  
+
+margin-left: 5%;
+padding-top: 10px;
+margin-top: 15%
+
+}
+#h12{margin-left: 40%;
+    font-family: cursive ,monospace;
+    color: #1287a8;
+    font-style: italic;
+margin-left: 25%
+}
+#p1{
+padding-left: 30PX;
+font-size: 200%;
+font-family: cursive ,monospace;
+ma
+
+}
+
+#div5{
+    background-color: #1287a8;
+width: 100%;
+height: 710px;
+padding-top:70px;
+padding-left:50px;
+padding-:50px;
+}
+.progress{
+
+width: 75%;
+border-radius: 10px;
+height: 30px;
+margin-bottom: 15px;
+
+
+}
+#p2{
+margin-bottom: 5%;
+margin-right: 90%;
+font-size: 30px;
+margin-left: 10px;
+font-family: cursive ,monospace;
+color: white
+}
+
+#div6{
+
+width: 100%;
+height: 1400px;
+background-color: rgb(216,82,81);
+
+padding-top: 2%;
+
+}
+#div7{
+background-color: white;
+width: 97%;
+height: 1300px;
+margin-left: 1.5%;
+border-radius: 100px;
+
+
+
+
+}
+.img2{
+    margin-top:50px; 
+margin-left: 60px;
+width: 400px;
+
+
+}
+.p3{
+
+margin-left: 80px;
+font-family: cursive ,monospace;
+font-style: italic;
+font-weight: bold;
+
+}
+.p4{ 
+    
+margin-left: 130px;
+font-family: cursive ,monospace;
+font-style: italic;
+font-weight: bold;
+
+}
+.p5{
+
+    margin-top: 10px;
+    margin-left: 200px;
+    font-family: cursive,monospace;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+.p6{
+
+    margin-top: 5px;
+    margin-left: 130px;
+    font-family: cursive,monospace;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.p7{
+
+    margin-top: 5px;
+    margin-left: 160px;
+    font-family: cursive,monospace;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+#h13{
+
+margin-left: 40%;
+font-family: cursive,monospace;
+color: black;
+padding-top: 20px;
+font-style: oblique;
+font-weight: 550;
+
+
+}
+#div8{
+
+    width: 100%;
+    height: 950px;
+    background-color:black;
+
+
+
+}
+
+.social-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -10px;
+  }
+  .social-buttons__button {
+    margin: 10px 5px 0;
+  }
+  
+  .social-button {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    width: 70px;
+    height: 70px;
+  }
+  .social-button__inner {
+    position: relative;
+    display: block;
+    width: calc(100% - 2px);
+    height: calc(100% - 2px);
+    border-radius: 100%;
+    background: #fff;
+    text-align: center;
+  }
+  .social-button i,
+  .social-button svg {
+    position: relative;
+    z-index: 1;
+    top: 25%;
+    height: 50%;
+    width: 50%;
+    line-height: 34px;
+    font-size: 28px;
+    transition: 0.3s;
+  }
+  .social-button::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 50%;
+    display: block;
+    width: 0;
+    height: 0;
+    border-radius: 100%;
+    transition: 0.3s;
+  }
+  #p8{
+margin-left: 10px;
+color: white;
+display: inline;
+font-family: cursive,monospace;
+
+  }
+  #img3{
+
+height: 30px;
+  }
+  #p9{
+      padding-top: 1%;
+    margin-left: 15px;
+    color: white;
+    display: inline;
+    font-family: cursive,monospace;
+    
+
+  }
+
+#h120{
+
+
+  font-family: cursive,monospace;
+  color: white;
+  margin-top:10px;
+  margin-bottom: 100px;
+  font-style: oblique;
+}
+#inp1{
+border: solid blueviolet 1px;
+border-radius: 50px;
+height: 150px;
+width: 300px
+
+}
+#div9{
+background-color: white;
+width: 80%;
+height: 500px;
+border-radius: 20px;
+
+
+}
+#h14{
+    font-family: cursive;
+    color: black;
+margin-bottom: 2%;
+    font-style: oblique;
+    
+    padding-top:20px 
+
+
+}
+#h15{
+
+
+    font-family: cursive,monospace;
+color: black;
+
+margin-bottom:3%;
+font-style: oblique;
+
+
+}
+#div10{
+
+height: 50px;
+background-color: black;
+width: 100%;
+
+}
+#span1{
+
+
+font-family: cursive,monospace;
+color: white;
+    
+}
+#p11{
+
+color: white;
+font-family: cursive,monospace;
+margin-top: 1px;
+
+}
+.th1{
+
+width: auto;
+height: auto
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .social-button:focus, .social-button:hover {
+    color: #fff;
+  }
+  .social-button:focus::after, .social-button:hover::after {
+    width: 100%;
+    height: 100%;
+    margin-left: -50%;
+  }
+  .social-button--mail {
+    color: #0072c6;
+  }
+  .social-button--mail::after {
+    background: #0072c6;
+  }
+  .social-button--facebook {
+    color: #3b5999;
+  }
+  .social-button--facebook::after {
+    background: #3b5999;
+  }
+  .social-button--linkedin {
+    color: #0077b5;
+  }
+  .social-button--linkedin::after {
+    background: #0077b5;
+  }
+  .social-button--github {
+    color: #6e5494;
+  }
+  .social-button--github::after {
+    background: #6e5494;
+  }
+  .social-button--codepen {
+    color: #212121;
+  }
+  .social-button--codepen::after {
+    background: #212121;
+  }
+  .social-button--steam {
+    color: #7da10e;
+  }
+  .social-button--steam::after {
+    background: #7da10e;
+  }
+  .social-button--snapchat {
+    color: #eec900;
+  }
+  .social-button--snapchat::after {
+    background: #eec900;
+  }
+  .social-button--twitter {
+    color: #55acee;
+  }
+  .social-button--twitter::after {
+    background: #55acee;
+  }
+  .social-button--instagram {
+    color: #e4405f;
+  }
+  .social-button--instagram::after {
+    background: #e4405f;
+  }
+  .social-button--npmjs {
+    color: #c12127;
+  }
+  .social-button--npmjs::after {
+    background: #c12127;
+  }
+  a
+
+
