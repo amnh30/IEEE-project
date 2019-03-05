@@ -251,57 +251,7 @@ font-weight: 550;
 
 }
 
-.social-buttons {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-top: -10px;
-  }
-  .social-buttons__button {
-    margin: 10px 5px 0;
-  }
-  
-  .social-button {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    outline: none;
-    width: 70px;
-    height: 70px;
-  }
-  .social-button__inner {
-    position: relative;
-    display: block;
-    width: calc(100% - 2px);
-    height: calc(100% - 2px);
-    border-radius: 100%;
-    background: #fff;
-    text-align: center;
-  }
-  .social-button i,
-  .social-button svg {
-    position: relative;
-    z-index: 1;
-    top: 25%;
-    height: 50%;
-    width: 50%;
-    line-height: 34px;
-    font-size: 28px;
-    transition: 0.3s;
-  }
-  .social-button::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 50%;
-    display: block;
-    width: 0;
-    height: 0;
-    border-radius: 100%;
-    transition: 0.3s;
-  }
-  #p8{
+#p8{
 margin-left: 10px;
 color: white;
 display: inline;
@@ -482,7 +432,121 @@ ul li a{
       transform: scale(1);
       z-index: -1;
       border-radius:15px; 
-      transition: 0s
+      transition: 0s}
+
+
+
+
+
+.social-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -10px;
+  }
+  .social-buttons__button {
+    margin: 10px 5px 0;
+  }
+  
+  .social-button {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    width: 70px;
+    height: 70px;
+  }
+  .social-button__inner {
+    position: relative;
+    display: block;
+    width: calc(100% - 2px);
+    height: calc(100% - 2px);
+    border-radius: 100%;
+    background: #fff;
+    text-align: center;
+  }
+  .social-button i,
+  .social-button svg {
+    position: relative;
+    z-index: 1;
+    top: 25%;
+    height: 50%;
+    width: 50%;
+    line-height: 34px;
+    font-size: 28px;
+    transition: 0.3s;
+  }
+  .social-button::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 50%;
+    display: block;
+    width: 0;
+    height: 0;
+    border-radius: 100%;
+    transition: 0.3s;
+  }
+
+
+
+
+
+
+
+
+
+      .social-buttons {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: -10px;
+      }
+      .social-buttons__button {
+        margin: 10px 5px 0;
+      }
+      
+      .social-button {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        outline: none;
+        width: 70px;
+        height: 70px;
+      }
+      .social-button__inner {
+        position: relative;
+        display: block;
+        width: calc(100% - 2px);
+        height: calc(100% - 2px);
+        border-radius: 100%;
+        background: #fff;
+        text-align: center;
+      }
+      .social-button i,
+      .social-button svg {
+        position: relative;
+        z-index: 1;
+        top: 25%;
+        height: 50%;
+        width: 50%;
+        line-height: 34px;
+        font-size: 28px;
+        transition: 0.3s;
+      }
+      .social-button::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 50%;
+        display: block;
+        width: 0;
+        height: 0;
+        border-radius: 100%;
+        transition: 0.3s;
+      }
 
 
 
@@ -496,25 +560,7 @@ ul li a{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      
 
 
 
@@ -594,9 +640,6 @@ ul li a{
 
 
 
-
-
-  }
   @media screen and (max-width: 600px){ {
     body{
     width:1500px;
